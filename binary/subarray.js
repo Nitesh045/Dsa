@@ -1,5 +1,5 @@
 let arr = [1,2,3];
-let s=""
+
 for(let sp = 0; sp <=arr.length;sp++){
     for(let ep = 0; ep <arr.length;ep++){
         let s="";
@@ -8,6 +8,7 @@ for(let sp = 0; sp <=arr.length;sp++){
         }
         console.log(s);
     }
+    "<br>"
    
 }
 

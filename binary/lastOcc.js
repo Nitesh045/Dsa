@@ -13,5 +13,5 @@ function lastOccu(arr,tar){
         }else r=mid-1
     }
     return temp
-}
+} 
 console.log(lastOccu(arr,80))

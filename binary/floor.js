@@ -10,7 +10,7 @@ function floorValue(arr,tar){
             floor=arr[mid]
             l=mid+1
 
-        }else{
+        }else{   
             r=mid-1;
             
         }
